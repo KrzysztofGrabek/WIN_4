@@ -15,7 +15,7 @@ namespace WIN_4
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("Test");
+            
         }
     }
 }
