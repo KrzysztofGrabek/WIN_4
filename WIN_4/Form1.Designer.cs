@@ -57,11 +57,11 @@
             // 
             // comboBox1
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(64, 213);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 2;
+            //this.comboBox1.FormattingEnabled = true;
+//            this.comboBox1.Location = new System.Drawing.Point(64, 213);
+            //this.comboBox1.Name = "comboBox1";
+           // this.comboBox1.Size = new System.Drawing.Size(121, 21);
+           // this.comboBox1.TabIndex = 2;
             // 
             // eventLog1
             // 
@@ -69,11 +69,11 @@
             // 
             // comboBox2
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(155, 46);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 21);
-            this.comboBox2.TabIndex = 3;
+            //this.comboBox2.FormattingEnabled = true;
+            //this.comboBox2.Location = new System.Drawing.Point(155, 46);
+           // /this.comboBox2.Name = "comboBox2";
+           // this.comboBox2.Size = new System.Drawing.Size(121, 21);
+           // this.comboBox2.TabIndex = 3;
             // 
             // button1
             // 
@@ -101,7 +101,7 @@
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.comboBox2);
+///            this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.label1);
